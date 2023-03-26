@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently working on My portfolio.<br>I'm looking to collaborate on challenging front-end projects.<br>I'm currently learning React.<br>Ask me about Javascript.<br>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@samdeev) 
