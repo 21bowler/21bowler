@@ -10,7 +10,7 @@ I’m currently working on My portfolio.<br>I'm looking to collaborate on challe
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=21bowler&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=21bowler&theme=gotham&hide_border=true)<br/>
-### ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21bowler&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ---
 ## [![](https://visitcount.itsvg.in/api?id=21bowler&icon=8&color=9)](https://visitcount.itsvg.in)
