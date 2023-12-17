@@ -13,6 +13,6 @@ I’m currently working on My portfolio.<br>I'm looking to collaborate on challe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21bowler&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=21bowler&icon=8&color=9)](https://visitcount.itsvg.in)
+## [![](https://visitcount.itsvg.in/api?id=21bowler&icon=8&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
